@@ -1,0 +1,92 @@
+{
+  "Montford": {
+    "name": "Montford",
+    "created_at": "2025-08-09T10:46:50.402616",
+    "counts": {
+      "Master Bedroom": 1,
+      "Standard Bedroom": 4,
+      "Bathroom (full)": 5,
+      "Bathroom (half)": 1,
+      "Kitchen (main)": 1,
+      "Living Room": 2,
+      "Dining Room": 1,
+      "Garage (1 car)": 1,
+      "Verandah": 1,
+      "Store / Pantry": 1
+    },
+    "room_templates": {
+      "Master Bedroom": {
+        "area_m2": 18.0,
+        "fixtures": {
+          "Internal door": 1.0,
+          "Window (each)": 2.0,
+          "Light fixture": 2.0
+        }
+      },
+      "Standard Bedroom": {
+        "area_m2": 12.0,
+        "fixtures": {
+          "Internal door": 1.0,
+          "Window (each)": 1.0,
+          "Light fixture": 2.0
+        }
+      },
+      "Bathroom (full)": {
+        "area_m2": 6.0,
+        "fixtures": {
+          "Toilet (WC) (each)": 1.0,
+          "Wash basin (each)": 1.0,
+          "Shower set (each)": 1.0,
+          "Light fixture": 1.0
+        }
+      },
+      "Bathroom (half)": {
+        "area_m2": 3.0,
+        "fixtures": {
+          "Toilet (WC) (each)": 1.0,
+          "Wash basin (each)": 1.0,
+          "Light fixture": 1.0
+        }
+      },
+      "Kitchen (main)": {
+        "area_m2": 10.0,
+        "fixtures": {
+          "Kitchen sink (each)": 1.0,
+          "Kitchen cabinet (per lm)": 3.0,
+          "Light fixture": 2.0
+        }
+      },
+      "Living Room": {
+        "area_m2": 20.0,
+        "fixtures": {
+          "Internal door": 1.0,
+          "Window (each)": 3.0,
+          "Light fixture": 3.0
+        }
+      },
+      "Dining Room": {
+        "area_m2": 12.0,
+        "fixtures": {
+          "Light fixture": 2.0,
+          "Window (each)": 2.0
+        }
+      },
+      "Garage (1 car)": {
+        "area_m2": 18.0,
+        "fixtures": {
+          "Gate (each)": 1.0
+        }
+      },
+      "Verandah": {
+        "area_m2": 8.0,
+        "fixtures": {}
+      },
+      "Store / Pantry": {
+        "area_m2": 6.0,
+        "fixtures": {}
+      }
+    },
+    "quality_multiplier": 1.0,
+    "location_multiplier": 1.0
+  }
+}
